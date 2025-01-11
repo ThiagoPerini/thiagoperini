@@ -7,6 +7,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoperini&layout=compact)
 
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2457792" style='border:none;'></iframe>
 
 
 ### Básico
