@@ -3,10 +3,6 @@
 
 
 
-![Thiago GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagoperini&show_icons=true&theme=highcontrast)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoperini&layout=compact)
-
 
 ### Básico
 
